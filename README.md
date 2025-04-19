@@ -26,7 +26,7 @@ This project is my graduation project focused on building an intelligent system 
 - MediaPipe 
 - Jupyter Notebook ....etc
 
-The code and all other things are coming soon after discussion
+
 
 
 
